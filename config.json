@@ -1,0 +1,5 @@
+{
+    "log_dir": "log",
+	"login_secret": "9c36c69e053f11e68ba5ac87a31a4093",
+	"login_token_expire": 24,
+}
